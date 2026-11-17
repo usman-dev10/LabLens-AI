@@ -1,0 +1,10 @@
+SYNTHETIC SAMPLE — NOT A REAL PATIENT REPORT
+
+Hemoglobin: 13.8 g/dL (reference range 12.0–15.5)
+WBC: 7.2 x10^9/L (reference range 4.0–11.0)
+Platelets: 250 x10^9/L (reference range 150–450)
+Fasting Glucose: 92 mg/dL (reference range 70–99)
+Total Cholesterol: 212 mg/dL (reference range below 200)
+LDL Cholesterol: 136 mg/dL (reference range below 130)
+ALT: 24 U/L (reference range 7–56)
+Creatinine: 0.9 mg/dL (reference range 0.6–1.2)

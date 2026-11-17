@@ -1,0 +1,7 @@
+SYNTHETIC SAMPLE — NOT A REAL PATIENT REPORT
+
+Hemoglobin: 14.2 g/dL (reference range 12.0–15.5)
+WBC: 6.1 x10^9/L (reference range 4.0–11.0)
+Platelets: 280 x10^9/L (reference range 150–450)
+Fasting Glucose: 88 mg/dL (reference range 70–99)
+Creatinine: 0.8 mg/dL (reference range 0.6–1.2)
